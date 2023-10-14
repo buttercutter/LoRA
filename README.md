@@ -7,4 +7,4 @@ Note:
 TODO:
 - MoLoRA (Mixture of Experts for LoRA)
 
-Credit: AI chatbot, [@ontocord](https://github.com/ontocord/) , [@cloneofsimo](https://github.com/cloneofsimo/)
+Credit: AI chatbot, [@Ayush Kaushal](https://github.com/Ayushk4), [@ontocord](https://github.com/ontocord/) , [@cloneofsimo](https://github.com/cloneofsimo/)
