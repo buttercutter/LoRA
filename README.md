@@ -6,5 +6,6 @@ Note:
 
 TODO:
 - MoLoRA (Mixture of Experts for LoRA)
+- [VeRA: Vector-based Random Matrix Adaptation](https://github.com/buttercutter/lora/tree/VeRA) coding implementation works well without using their suggested initialization strategies, so may need some more checking
 
 Credit: AI chatbot, [@Ayush Kaushal](https://github.com/Ayushk4), [@ontocord](https://github.com/ontocord/) , [@cloneofsimo](https://github.com/cloneofsimo/)
